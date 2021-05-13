@@ -8,9 +8,7 @@
 Arnabsaha6/Arnabsaha6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
----
 name: Arnab Saha
 institution: Karunya Institute of Technology and Sciences 🚩
 quote: Be ready to unlearn and learn
 github_user: Arnabsaha6
----
